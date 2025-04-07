@@ -7,11 +7,12 @@
   },
   "authors": [
     {
-      "name": "Alexandre Cardoso",
-      "email": "xandecar@hotmail.com"
+      "name": "Julio B",
+      "email": "profile.julio@gmail.com"
     }
   ],
   "require": {
-    "stripe/stripe-php": "^10.3"
+    "stripe/stripe-php": "^10.3",
+    "league/plates": "^3.6"
   }
 }

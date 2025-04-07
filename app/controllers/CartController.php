@@ -1,9 +1,9 @@
 <?php
     namespace app\controllers;
     use app\library\View;
-class HomeController{
+class CartController{
     public function index(){
-        View::render('home');
+        View::render('cart');
     }
 }
 
